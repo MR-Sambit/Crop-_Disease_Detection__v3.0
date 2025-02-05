@@ -64,3 +64,6 @@ Python 3.7+
 TensorFlow / Keras
 NumPy
 PIL (Pillow)
+
+
+![image](https://github.com/user-attachments/assets/f23bcf4f-ebea-4694-8f35-f652ec0126e3)
